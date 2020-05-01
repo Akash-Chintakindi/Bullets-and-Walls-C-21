@@ -1,2 +1,2 @@
-# Bullets-and-Walls-C-21
-I make a project for the reliability of wall against bullets which have a speed and weight property versus the wall's thickness property
+# p5.play-boilerplate
+Boiler plate for p5.play
